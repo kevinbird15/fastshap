@@ -4,7 +4,7 @@
 
 ## Install
 
-`pip install fastshap`
+`pip install fastshapv1`
 
 ## How to use
 
