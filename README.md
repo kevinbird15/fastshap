@@ -4,7 +4,7 @@
 
 ## Install
 
-`pip install fastshap`
+`pip install git+https://github.com/muellerzr/fastshap`
 
 ## How to use
 
